@@ -26,6 +26,11 @@
 <p align="center">
   <img alt="MySkills" title="#MySkills gif" src="./src/assets/img/myskills.gif" width="300px"> 
 </p>
+
+
+<p align="center">
+  <img alt="MySkills2" title="#MySkills png" src="./src/assets/img/MySkills2.png" width="300px"> 
+</p>
   
 
 
